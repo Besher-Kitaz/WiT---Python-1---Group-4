@@ -6,4 +6,6 @@ However, the retail employee, Sofia, is struggling to calculate the discount. Wr
 # Inpout: The input is the price without the discount
 # Output: The price with the discount
 
-"""You should """
+"""You should calculate recieve the input, calculate the discount and print it as follows: 'The price after the dicount is 50' for example."""
+
+"""Start writing your code below here"""
